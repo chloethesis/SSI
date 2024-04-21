@@ -59,7 +59,7 @@ body {
     }
     ::selection {
     	background: #4900f1;
-    color; #fff;
+    color: #fff;
     }
 textarea {
     border: 1px solid #ffffff;
