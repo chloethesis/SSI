@@ -58,7 +58,7 @@ body {
         border-color: blanchedalmond;
     }
     ::selection {
-    	background: #4900f1;
+    background: #4900f1;
     color: #fff;
     }
 textarea {
